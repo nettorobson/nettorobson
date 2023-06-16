@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Robson 🧉
+
+🌲🌳🌴
+I am a Forest Engineer and a data enthusiast with an interest in Analytics, Data & Software Engineering.
+
 
 <!--
 **nettorobson/nettorobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
